@@ -14,3 +14,4 @@
 
 ## this is iterm2
 
+## this is git config

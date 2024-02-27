@@ -15,3 +15,6 @@
 ## this is iterm2
 
 ## this is git config
+
+
+## this is from windows git bash
